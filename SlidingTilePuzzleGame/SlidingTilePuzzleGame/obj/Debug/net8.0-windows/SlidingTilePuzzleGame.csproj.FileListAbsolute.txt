@@ -1,0 +1,16 @@
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\bin\Debug\net8.0-windows\SlidingTilePuzzleGame.exe
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\bin\Debug\net8.0-windows\SlidingTilePuzzleGame.deps.json
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\bin\Debug\net8.0-windows\SlidingTilePuzzleGame.runtimeconfig.json
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\bin\Debug\net8.0-windows\SlidingTilePuzzleGame.dll
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\bin\Debug\net8.0-windows\SlidingTilePuzzleGame.pdb
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\SlidingTilePuzzleGame.Form1.resources
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\SlidingTilePuzzleGame.csproj.GenerateResource.cache
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\SlidingTilePuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\SlidingTilePuzzleGame.AssemblyInfoInputs.cache
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\SlidingTilePuzzleGame.AssemblyInfo.cs
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\SlidingTilePuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\SlidingTilePuzzleGame.dll
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\refint\SlidingTilePuzzleGame.dll
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\SlidingTilePuzzleGame.pdb
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\SlidingTilePuzzleGame.genruntimeconfig.cache
+C:\Users\Lichovski Nikola\Desktop\Visual-Programming\Project\FINAL\SlidingTilePuzzleGame\SlidingTilePuzzleGame\obj\Debug\net8.0-windows\ref\SlidingTilePuzzleGame.dll
